@@ -1,14 +1,23 @@
-racer_id,all_time_avg_percentile,median_percentile_2020,median_percentile_2022,median_percentile_2023,rank
-"Kilmer-Choi, Kevin",0.5216281861120289,0.550561797752809,0.6440677966101694,0.552148033126294,0.552148033126294
-"Ramshaw, Sheri",0.6745354034541501,0.7551873413942379,0.85,0.5966748768472906,0.5966748768472906
-"Oegema, Bernard",0.8704302500843122,,,,0.8704302500843122
-"Kilmer-Choi, Elaine",0.9581601731601732,,,,0.9581601731601732
-"Silverberg, Dena",,,,,
-"Kilmer-Choi, Hannah",,,,,
-"Simmons-Stubbs, Daniel",,,,,
-"Ledwidge, Sarah",,,,,
-"Milthorpe, Robert",,,,,
-"Farber, Joel",,,,,
-"Livingston, Jenna",,,,,
-"Taylor, Kyla",,,,,
-"Crawford, Steve",,,,,
+racer_id,Age,Gender,all_time_avg_percentile,median_percentile_2020,median_percentile_2022,median_percentile_2023,rank
+"Leistner-Lavoie, Melanie",30.0,F,0.415412292240637,,,,0.415412292240637
+"Kilmer-Choi, Kevin",54.0,M,0.5216281861120289,0.550561797752809,0.6440677966101694,0.552148033126294,0.552148033126294
+"Ramshaw, Sheri",63.0,F,0.6745354034541501,0.7551873413942379,0.85,0.5966748768472906,0.5966748768472906
+"Milthorpe, Randy",63.0,M,0.5059474511012779,0.6292134831460674,,,0.6292134831460674
+"Leistner, Linda",63.0,F,0.4905883352777234,0.5168539325842697,0.6610169491525424,,0.6610169491525424
+"Oegema, Bernard",61.0,M,0.8704302500843122,,,,0.8704302500843122
+"Crawford, Stephen",62.0,M,0.9349628597800326,,0.9893617021276595,0.896551724137931,0.896551724137931
+"Kilmer-Choi, Elaine",53.0,F,0.9581601731601732,,,,0.9581601731601732
+"Sandell, Mark",30.0,M,,,,,
+"Silverberg, Dena",50.0,F,,,,,
+"Kilmer-Choi, Hannah",20.0,F,,,,,
+"Simmons-Stubbs, Daniel",20.0,M,,,,,
+"Ledwidge, Sarah",47.0,F,,,,,
+"Farber, Joel",56.0,M,,,,,
+"Livingston, Jenna",28.0,F,,,,,
+"Taylor, Kyla",48.0,F,,,,,
+"Hamilton, Mackenzie",27.0,F,,,,,
+"Woodside, Terence",53.0,M,,,,,
+"Ghan, Ethan",21.0,M,,,,,
+"Ghan, Ashley",21.0,F,,,,,
+"Fiand, Sacha",28.0,F,,,,,
+"McDonald, DArcy",50.0,M,,,,,
